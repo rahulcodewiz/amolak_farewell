@@ -11,7 +11,7 @@ footer: 'Data and Analytics Team'
 ![bg fit](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/04/2024-05-360Blog-MascotGroup-1500x844-WithoutGenie.png?w=889&h=500)
 
 
-### Wishing you all the best
+### Wishing you all the best!
 
 ### DnA Productivity Team
 
