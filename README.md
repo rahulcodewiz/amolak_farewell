@@ -5,7 +5,7 @@ footer: 'Data and Analytics Team'
 ---
 
 
-# Dear Amolak |Trailblazer 💐 🏋️
+# Dear Amolak |Trailblazer 💐  🏋️
 
 
 ![bg fit](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/04/2024-05-360Blog-MascotGroup-1500x844-WithoutGenie.png?w=889&h=500)
