@@ -194,7 +194,7 @@ section:nth-of-type(12) {
 }
 </style>
 
-# Dear Amolak | Trailblazer 💐 🎉 🏋️
+# Dear Amolak | Trailblazer 💐 🏋️
 
 
 ![bg fit](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/04/2024-05-360Blog-MascotGroup-1500x844-WithoutGenie.png?w=889&h=500)
@@ -206,23 +206,36 @@ section:nth-of-type(12) {
 
 ---
 
+
+![bg left:40% 80%](https://example.com/astro-mascot.jpg)
+## 🌟🌟🌟
+
+> best wishes
+
+**- Naveen**
+
+---
+
+
+![bg left:40% 80%](https://example.com/astro-mascot.jpg)
+## 🌟🌟🌟
+
+> best wishes
+
+**- Vikas**
+
+---
+
 ![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Astro.png)
 ## Dear Amolak 💐 🤟,
 
 
-> You have been integral part of team over these years and contributed in many areas. We are grateful for the wonderful time and impact we've had. Wishing you all the best in your future endeavors.
+> You have been integral part of team over these years and contributed in many areas. I am grateful for the wonderful time and impact we've had. Wishing you all the best in your future endeavors.
 
 - You will be missed- All star ranger, Rockstar, Amazing teammate
 
 
 **- Rahul Sharma**
-
----
-## 🌟🌟🌟
-
-> best wishes
-
-**- [Person 2's Name]**
 
 ---
 
