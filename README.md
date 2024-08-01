@@ -55,9 +55,9 @@ paginate: true
 
 ## 👍
 
-> "Good luck!"
+> "Amolak, we are so lucky to have you during the few month months since inception of the SSH team.  You've accomplished so much during such a short period of time.  I'm especially grateful of your helpful and inquisitive demeanor.  I have no doubt you will crush your next role.  Best of luck!"
 
-**- [Person 2's Name]**
+**- Adrian**
 
 ---
 
