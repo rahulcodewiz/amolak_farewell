@@ -1,19 +1,33 @@
 ---
 marp: true
 theme: gaia
-footer: 'Data and Analytics Team'
+footer: '**Data and Analytics Team**'
+paginate: true
 ---
 
 
-# Dear Amolak |Trailblazer 💐  🏋️
+#  Amolak's Farewell | The Trailblazer 🏋️ | 🌟🌟🌟 Ranger
 
 
 ![bg fit](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/04/2024-05-360Blog-MascotGroup-1500x844-WithoutGenie.png?w=889&h=500)
 
 
-### Wishing you all the best!
+### Wishing you all the best
 
 ### DnA Productivity Team
+
+---
+
+![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Astro.png)
+## Dear Amolak 💐 🤟
+
+
+> You have been integral part of team over these years and contributed in many areas. I am grateful for the wonderful time and impact we've had. Wishing you all the best in your future endeavors.
+
+- You will be missed- All star ranger, Rockstar, Amazing teammate
+
+
+**- Rahul Sharma**
 
 ---
 
@@ -34,19 +48,6 @@ footer: 'Data and Analytics Team'
 > best wishes
 
 **- Vikas**
-
----
-
-![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Astro.png)
-## Dear Amolak 💐 🤟,
-
-
-> You have been integral part of team over these years and contributed in many areas. I am grateful for the wonderful time and impact we've had. Wishing you all the best in your future endeavors.
-
-- You will be missed- All star ranger, Rockstar, Amazing teammate
-
-
-**- Rahul Sharma**
 
 ---
 
