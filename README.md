@@ -42,10 +42,10 @@ paginate: true
 ---
 
 
-![bg left:40% 80%](https://example.com/astro-mascot.jpg)
-## 🌟🌟🌟
+![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Einstien.png)
+## Dear Amolak 🌟🌟🌟
 
-> best wishes
+> Thank you for your invaluable contributions to Salesforce over the past 4+ years. Your work in both the Data Engineering and Productivity teams has been incredibly valuable. I am confident that you will excel wherever you go next. Wishing you all the best !!!
 
 **- Vikas**
 
