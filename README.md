@@ -62,11 +62,12 @@ paginate: true
 ---
 
 ![bg left:40% 80%](https://example.com/codey-mascot.jpg)
-## Wishes from [Person 3]: 🌈
 
-> "Good luck."
+## 🔥
 
-**- [Person 3's Name]**
+> "Wishing you all the best in your future endeavors."
+
+**- Ankan**
 
 ---
 
