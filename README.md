@@ -82,11 +82,12 @@ paginate: true
 ---
 
 ![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Ruth.png)
-## Wishes from [Person 4]: 💫
+## Hi Amolak: 💫
 
-> "Good luck!"
+> "Wishing you endless success & joy in every challenge you tackle! Your hard work & dedication are truely inspiring. May this bring you growth,
+accomplishment and fulfillment. Here's to your continued excellence & the incredible achievements that lie ahead. Best wishes & Good luck!"
 
-**- [Person 4's Name]**
+**-Hardik**
 
 ---
 
