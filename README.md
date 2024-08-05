@@ -61,7 +61,7 @@ paginate: true
 
 ---
 
-![bg left:40% 80%](https://example.com/codey-mascot.jpg)
+![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Ruth.png)
 
 ## 🔥
 
@@ -71,7 +71,17 @@ paginate: true
 
 ---
 
-![bg left:40% 80%](https://example.com/astro-mascot.jpg)
+![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2023/05/2023-05-360Blog-ContextualDriver-Zig-567x844-1.png)
+
+## Hi Amolak: 🌈
+
+> "It's great to work with you. I wish you all the best with your new job."
+
+**-Venkatesh**
+
+---
+
+![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Ruth.png)
 ## Wishes from [Person 4]: 💫
 
 > "Good luck!"
