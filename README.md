@@ -18,7 +18,7 @@ paginate: true
 
 ---
 
-![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Astro.png)
+![bg left:40% 80%](https://rahulcodewiz.github.io/amolak_farewell/images/10.jpg)
 ## Dear Amolak 💐 🤟
 
 
@@ -32,7 +32,7 @@ paginate: true
 ---
 
 
-![bg left:40% 80%](https://example.com/astro-mascot.jpg)
+![bg left:40% 80%](https://rahulcodewiz.github.io/amolak_farewell/images/2.jpg)
 ## 🌟🌟🌟
 
 > best wishes
@@ -42,22 +42,44 @@ paginate: true
 ---
 
 
-![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Einstien.png)
+![bg left:40% 80%](https://rahulcodewiz.github.io/amolak_farewell/images/IMG-20231029-WA0018.jpg)
 ## Dear Amolak 🌟🌟🌟
 
-> Thank you for your invaluable contributions to Salesforce over the past 4+ years. Your work in both the Data Engineering and Productivity teams has been incredibly valuable. I am confident that you will excel wherever you go next. Wishing you all the best !!!
+> "Thank you for your invaluable contributions to Salesforce over the past 4+ years. Your work in both the Data Engineering and Productivity teams has been incredibly valuable. I am confident that you will excel wherever you go next. Wishing you all the best !!!"
 
 **- Vikas**
 
 ---
 
-![bg left:40% 80%](https://example.com/astro-mascot.jpg)
+![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Astro.png)
 
 ## 👍
 
 > "Amolak, we are so lucky to have you during the few month months since inception of the SSH team.  You've accomplished so much during such a short period of time.  I'm especially grateful of your helpful and inquisitive demeanor.  I have no doubt you will crush your next role.  Best of luck!"
 
 **- Adrian**
+
+
+---
+
+![bg left:40% 80%](https://rahulcodewiz.github.io/amolak_farewell/images/6.jpg)
+
+## 💫
+
+> Thank you for your invaluable contributions. You are a champ and you will excel in your next role as well. Wish you all the very best , Keep in touch. And don't forget our 10K salesforce walk is pending with a goal to reach top  3!
+
+**- Nitisha**
+
+---
+
+![bg left:40% 80%](https://rahulcodewiz.github.io/amolak_farewell/images/6.jpg)
+
+## Dear Amolak: 🍀
+
+> "Good luck!"
+> You have been amazing right from Day 1. Your passion to learn and try different things are so unique and your ability to adapt quickly perfectly complements your learning desires. Your dedication to everything you pick up is just contagious. I am sure you will succeed wherever you and whatever you work on. You almost has that Midas touch!!! Wishing you all the very best for your future 🚀 
+
+**- Anup Kumar Ray**
 
 ---
 
@@ -78,15 +100,6 @@ paginate: true
 > "It's great to work with you. I wish you all the best with your new job."
 
 **-Venkatesh**
-
----
-
-![bg left:40% 80%](https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/12/2021-12-360Blog-2D-IndividualIllustrations-Ruth.png)
-## Wishes from [Person 4]: 💫
-
-> "Good luck!"
-
-**- [Person 4's Name]**
 
 ---
 
@@ -143,11 +156,11 @@ paginate: true
 **- [Person 10's Name]**
 
 ---
-![bg left:40% 80%](https://developer.salesforce.com/resources2/Customer+360+Guides/guide-hero.png)
+![bg left:40% 80%](https://rahulcodewiz.github.io/amolak_farewell/images/N.png)
 
 ## [DnA Team] 💼 🌟
 
-We wish you all the best! We really hope you will be back soon in DnA 😜
+We wish you all the best Trailblazer! We really hope you will be back soon in DnA 😜
 
 ---
 
