@@ -18,11 +18,11 @@ paginate: true
 
 ---
 
-![bg left:40% 80%](https://rahulcodewiz.github.io/amolak_farewell/images/10.jpg)
+![bg left:30% 70%](https://rahulcodewiz.github.io/amolak_farewell/images/10.jpg)
 ## Dear Amolak 💐 🤟
 
 
-> You have been integral part of team over these years and contributed in many areas. I am grateful for the wonderful time and impact we've had. Wishing you all the best in your future endeavors.
+> You have been integral part of team over these years and contributed in many areas. I am grateful for the wonderful time and impact we've had in product analytics through Scuba & Lego. Wishing you all the best in your future endeavors.
 
 - You will be missed- All star ranger, Rockstar, Amazing teammate
 
@@ -30,14 +30,10 @@ paginate: true
 **- Rahul Sharma**
 
 ---
-
-
-![bg left:40% 80%](https://rahulcodewiz.github.io/amolak_farewell/images/2.jpg)
-## 🌟🌟🌟
-
-> best wishes
-
-**- Naveen**
+![bg left:30% 60%](https://rahulcodewiz.github.io/amolak_farewell/images/2.jpg)
+To our incredible superstar Ranger,
+Your journey to superstar has been a sight to witness! Your hard work, commitment, and continuous learning have been an inspiration to us all. You've set the bar sky-high with your unstoppable drive and passion for excellence. On a lighter note, I'll definitely miss our epic go-kart battles. You're a fierce competitor, and I'm already looking forward to our next showdown when I'm back in town.
+Go crush it in your new adventure, Ranger! We're all cheering for you! Naveen Chhajer Jain
 
 ---
 
@@ -72,11 +68,9 @@ paginate: true
 
 ---
 
-![bg left:40% 80%](https://rahulcodewiz.github.io/amolak_farewell/images/6.jpg)
+![bg left:30% 60%](https://rahulcodewiz.github.io/amolak_farewell/images/6.jpg)
 
-## Dear Amolak: 🍀
-
-> Good luck! You have been amazing right from Day 1. Your passion to learn and try different things are so unique and your ability to adapt quickly perfectly complements your learning desires. Your dedication to everything you pick up is just contagious. I am sure you will succeed wherever you and whatever you work on. You almost has that Midas touch!!! Wishing you all the very best for your future 🚀 
+Good luck! You have been amazing right from Day 1. Your passion to learn and try different things are so unique and your ability to adapt quickly perfectly complements your learning desires. Your dedication to everything you pick up is just contagious. I am sure you will succeed wherever you and whatever you work on. You almost has that Midas touch!!! Wishing you all the very best for your future 🚀 
 
 **- Anup Kumar Ray**
 
