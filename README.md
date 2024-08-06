@@ -92,11 +92,11 @@ accomplishment and fulfillment. Here's to your continued excellence & the incred
 ---
 
 ![bg left:40% 80%](https://example.com/codey-mascot.jpg)
-## Wishes from [Person 5]: 🎯
+## Dear Amolak: 🌟
 
-> "Good luck!"
+> You have been amazing right from Day 1. Your passion to learn and try different things are so unique and your ability to adapt quickly perfectly complements your learning desires. Your dedication to everything you pick up is just contagious. I am sure you will succeed wherever you and whatever you work on. You almost has that Midas touch!!! Wishing you all the very best for your future 🚀 
 
-**- [Person 5's Name]**
+**- Anup Kumar Ray**
 
 ---
 
